@@ -21,7 +21,7 @@ Skills:  BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **rob403658@gmail.com**
+- 📫 How to reach me **rob403858@gmail.com**
 
  
 
